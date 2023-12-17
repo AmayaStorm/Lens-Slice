@@ -1,4 +1,4 @@
-# Your code below:
+
 #checkpoint 1
 toppings= ["pepperoni", "pineapple", "cheese", "sausage", "olives", "anchovies", "mushrooms"]
 #checkpoint 2
